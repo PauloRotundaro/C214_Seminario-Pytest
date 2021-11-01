@@ -1,6 +1,6 @@
-<h1 align="center">Teste de unidade com Pytest</h1>
+<h1 align="center">Teste de unidade com Pytest 💻 </h1>
 
-## Tópicos
+## Tópicos 🔖
 
 - [O Projeto](#o-projeto-)
 - [Equipe](#equipe)
@@ -64,7 +64,7 @@ pip install -U pytest
 pytest --version
 ```
 
-## Testes
+## Testes ☑️✖️
 ### Para realização dos testes, 3 comandos podem ser feitos:
 - 1º (Rodar todos os arquivos de teste):
 ```bash
