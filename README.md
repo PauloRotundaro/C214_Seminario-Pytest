@@ -4,14 +4,14 @@
 Material desenvolvido para o seminário de Frameworks da matéria de Engenharia de Software (C214), ministrada pelo professor Phyllipe Lima.
 Devemos apresentar alguns testes de unidade feitos com o pytest. Para isso desenvolvemos uma simples calculadora em python.
 
-Tabela de conteúdos
+Arquivos
 =================
 <!--ts-->
-   * [calculadora](#Sobre)
-     * [test](#tabela-de-conteudo)
-        * [__init__.py](#instalacao)
-        * [test_multiplicacao_divisao.py](#instalacao)
-        * [test_soma_subtracao.py](#instalacao)
-     * [__init__.py](#como-usar)
+   * [calculadora]
+     * [test]
+        * [__init__.py]
+        * [test_multiplicacao_divisao.py]
+        * [test_soma_subtracao.py]
+     * [__init__.py]
      * [calculadora]
 <!--te-->
