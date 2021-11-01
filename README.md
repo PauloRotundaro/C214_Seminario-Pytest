@@ -1,6 +1,6 @@
 <h1 align="center">Teste de unidade com Pytest</h1>
 
-# Tópicos
+## Tópicos
 
 - [O Projeto](#o-projeto-)
 - [Equipe](#equipe)
@@ -8,8 +8,8 @@
 - [Arquivos](#arquivos-open_file_folder)
 
 # O Projeto 📈
-Material desenvolvido para o seminário de Frameworks da matéria de Engenharia de Software (C214), ministrada pelo professor **Phyllipe Lima**.
-Devemos apresentar alguns testes de unidade feitos com o ***Pytest***. Para isso desenvolvemos uma simples calculadora em ***python***.
+Projeto desenvolvido para o seminário de Frameworks da matéria de Engenharia de Software (C214), ministrada pelo professor **Phyllipe Lima**.<br>
+A atividade consiste emm apresentar alguns testes de unidade feitos com o ***Pytest***. Para isso desenvolvemos uma simples calculadora em ***python***.
 
 ## Equipe
 * 👧 Ana Terra
@@ -17,7 +17,7 @@ Devemos apresentar alguns testes de unidade feitos com o ***Pytest***. Para isso
 * 👦 Paulo Rotundaro
 * 👦 Pedro Abritta
 
-### Instalação ⚙💻
+## Instalação ⚙💻
 Se você entende um pouco de inglês e gostaria de saber todas as informações sobre essa ferramenta de teste, você pode acessar a documentação oficial do <a href="https://docs.pytest.org/en/stable/index.html">Pytest</a>.
 Mas não se preocupe, o processo de instalação é super simples! Vou te passar o passo a baixo aqui em baixo:
 
@@ -59,11 +59,11 @@ python -m pip install --upgrade pip
      * :page_facing_up: [calculadora.py](#calculadora)
 <!--te-->
 
-## calculadora
+## Calculadora
 ![image](https://user-images.githubusercontent.com/73140691/139708100-b411dcec-753f-46ff-931c-5f01a6965640.png)
 
-## test-multiplicacao-divisao
+## Teste multiplicação/divisão
 ![image](https://user-images.githubusercontent.com/73140691/139708238-1ba0f584-af3f-416e-8759-e8320d4e14cb.png)
 
-## test-soma-subtracao
+## Teste adição/subtração
 ![image](https://user-images.githubusercontent.com/73140691/139708280-9f5f391f-7802-4c33-a0ad-a0faf8abd680.png)
