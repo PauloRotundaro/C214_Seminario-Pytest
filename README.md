@@ -1,8 +1,51 @@
 <h1 align="center">Teste de unidade com Pytest</h1>
 
-## Descrição do Projeto :pencil2:
-Material desenvolvido para o seminário de Frameworks da matéria de Engenharia de Software (C214), ministrada pelo professor Phyllipe Lima.
-Devemos apresentar alguns testes de unidade feitos com o pytest. Para isso desenvolvemos uma simples calculadora em python.
+# Tópicos
+
+- [O Projeto](#-o-projeto)
+- [Equipe](#-equipe")
+- [Arquivos](#-arquivos)
+
+# O Projeto 📈
+Material desenvolvido para o seminário de Frameworks da matéria de Engenharia de Software (C214), ministrada pelo professor **Phyllipe Lima**.
+Devemos apresentar alguns testes de unidade feitos com o ***Pytest***. Para isso desenvolvemos uma simples calculadora em ***python***.
+
+## Equipe
+* 👧 Ana Terra
+* 👦 Paulo Eduardo
+* 👦 Paulo Rotundaro
+* 👦 Pedro Abritta
+
+### Instalação ⚙💻
+Se você entende um pouco de inglês e gostaria de saber todas as informações sobre essa ferramenta de teste, você pode acessar a documentação oficial do <a href="https://docs.pytest.org/en/stable/index.html">Pytest</a>.
+Mas não se preocupe, o processo de instalação é super simples! Vou te passar o passo a baixo aqui em baixo:
+
+Para instalar o Pytest é preciso ter também em sua máquina o <a href="https://pypi.org/project/pip/">PIP</a>, gerenciador de pacotes do Python.
+Normalmente, o PIP é instalado automaticamente se você:
+- Está usando Python baixado de <a href="https://www.python.org/">python.org</a>
+
+Antes de tudo, abra um console com permissão de administrador no seu computador.
+Após aberto, siga os seguintes passos:
+- 1º Rode o seguinte comando para baixar o arquivo "get-pip.py":
+```bash
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+```
+- 2º Instalando PIP no windows:
+```bash
+python(ou py) get-pip.py
+```
+- 3º Adicione PIP nas suas variáveis de ambiente do Windows, para poder rodar o comando de qualquer lugar.
+
+### Versão e atualização
+- Para verificar se instalou corretamente e saber sua versão, rode o seguinte comando:
+```bash
+pip --version
+```
+
+- Para atualizar sua versão do PIP, rode o seguinte comando:
+```bash
+python -m pip install --upgrade pip
+```
 
 ## Arquivos :open_file_folder:
 <!--ts-->
