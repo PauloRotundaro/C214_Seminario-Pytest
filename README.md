@@ -16,5 +16,6 @@ Arquivos
      * [calculadora.py](#calculadora.py)
 <!--te-->
 
-#calculadora.py
-<img src="./assets/calc.png" />
+##calculadora.py
+##test_multiplicacao_divisao.py
+##test_soma_subtracao.py
