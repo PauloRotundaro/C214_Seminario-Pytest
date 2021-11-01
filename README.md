@@ -7,7 +7,7 @@ Devemos apresentar alguns testes de unidade feitos com o pytest. Para isso desen
 Arquivos
 =================
 <!--ts-->
-   * calculadora
+   * :file_folder: calculadora
      * test
         * __init__.py
         * [test_multiplicacao_divisao.py](#test-multiplicacao-divisao)
