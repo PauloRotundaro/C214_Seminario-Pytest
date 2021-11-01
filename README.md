@@ -2,9 +2,10 @@
 
 # Tópicos
 
-- [O Projeto](#-o-projeto)
-- [Equipe](#-equipe")
-- [Arquivos](#-arquivos)
+- [O Projeto](#o-projeto-)
+- [Equipe](#equipe)
+- [Instalação](#instalação-)
+- [Arquivos](#arquivos-open_file_folder)
 
 # O Projeto 📈
 Material desenvolvido para o seminário de Frameworks da matéria de Engenharia de Software (C214), ministrada pelo professor **Phyllipe Lima**.
