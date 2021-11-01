@@ -7,12 +7,12 @@ Devemos apresentar alguns testes de unidade feitos com o pytest. Para isso desen
 Arquivos
 =================
 <!--ts-->
-   * [calculadora]
-     * [test]
-        * [__init__.py]
+   * calculadora
+     * test
+        * __init__.py
         * [test_multiplicacao_divisao.py](#test_multiplicacao_divisao.py)
         * [test_soma_subtracao.py](#test_soma_subtracao.py)
-     * [__init__.py]
+     * __init__.py
      * [calculadora.py](#calculadora.py)
 <!--te-->
 
