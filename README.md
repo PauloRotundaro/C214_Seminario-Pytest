@@ -7,15 +7,11 @@ Devemos apresentar alguns testes de unidade feitos com o pytest. Para isso desen
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [calculadora](#Sobre)
+     * [test](#tabela-de-conteudo)
+      * [__init__.py](#instalacao)
+      * [test_multiplicacao_divisao.py](#instalacao)
+      * [test_soma_subtracao.py](#instalacao)
+     * [__init__.py](#como-usar)
+     * [calculadora]
 <!--te-->
