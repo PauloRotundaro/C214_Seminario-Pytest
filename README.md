@@ -5,11 +5,12 @@
 - [O Projeto](#o-projeto-)
 - [Equipe](#equipe)
 - [Instalação](#instalação-)
+- [Testes](#testes)
 - [Arquivos](#arquivos-open_file_folder)
 
 # O Projeto 📈
 Projeto desenvolvido para o seminário de Frameworks da matéria de Engenharia de Software (C214), ministrada pelo professor **Phyllipe Lima**.<br>
-A atividade consiste emm apresentar alguns testes de unidade feitos com o ***Pytest***. Para isso desenvolvemos uma simples calculadora em ***python***.
+A atividade consiste em apresentar alguns testes de unidade feitos com uma ferramenta de testes, a qual, para nosso grupo foi a ***Pytest***. Para isso desenvolvemos uma simples calculadora em ***python***.
 
 ## Equipe
 * 👧 Ana Terra
@@ -35,7 +36,7 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 ```bash
 python(ou py) get-pip.py
 ```
-- 3º Adicione PIP nas suas variáveis de ambiente do Windows, para poder rodar o comando de qualquer lugar.
+- 3º Adicione PIP nas suas <a href="https://www.noticiastecnicas.com/variaveis-de-ambiente-do-sistema-e-do-usuario-no-windows-explicadas/">variáveis de ambiente</a> do Windows, para poder rodar o comando de qualquer lugar.
 
 ### Versão e atualização
 - Para verificar se instalou corretamente e saber sua versão, rode o seguinte comando:
@@ -48,13 +49,30 @@ pip --version
 python -m pip install --upgrade pip
 ```
 
+## Testes
+### Para realização dos testes, 3 comandos podem ser feitos:
+- 1º (Rodar todos os arquivos de teste):
+```bash
+pytest
+```
+
+- 2º (Rodar um arquivo de teste específico):
+```bash
+pytest nome_do_arquivo.py
+```
+
+- 3º (Rodar os testes, até encontrar um erro):
+```bash
+pytest -x ou pytest nome_do_arquivo.py -x
+```
+
 ## Arquivos :open_file_folder:
 <!--ts-->
   * :file_folder: calculadora
     * :file_folder: test
         * :page_facing_up: __init__.py
-        * :page_facing_up: [test_multiplicacao_divisao.py](#test-multiplicacao-divisao)
-        * :page_facing_up: [test_soma_subtracao.py](#test-soma-subtracao)
+        * :page_facing_up: [test_multiplicacao_divisao.py](#teste-multiplicaçãodivisão)
+        * :page_facing_up: [test_soma_subtracao.py](#teste-adiçãosubtração)
      * :page_facing_up: __init__.py
      * :page_facing_up: [calculadora.py](#calculadora)
 <!--te-->
