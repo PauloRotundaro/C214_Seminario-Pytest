@@ -64,6 +64,8 @@ pip install -U pytest
 pytest --version
 ```
 
+### Alguns IDE's como o <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a> já possuem o PIP integrado, e também uma fácil instalação do <a href="https://www.jetbrains.com/help/pycharm/pytest.html">Pytest</a> em suas configurações de projeto.
+
 ## Testes ☑️✖️
 ### Para realização dos testes, 3 comandos podem ser feitos:
 - 1º (Rodar todos os arquivos de teste):
