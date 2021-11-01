@@ -13,3 +13,4 @@ Devemos apresentar alguns testes de unidade feitos com o pytest. Para isso desen
       * [test_soma_subtracao.py]
     * [__init__.py]
     * [calculadora]
+<!--te-->
