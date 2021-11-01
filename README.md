@@ -1,4 +1,4 @@
-<h1 align="center">Hello, dev!🤓💻 </h1>
+<h1 align="center"> Hello, dev!🤓💻 </h1>
 
 ## Quer ir direto ao ponto? 🔖
 
@@ -9,7 +9,7 @@
    - [Versão e atualização do PIP](#versão-e-atualização)
    - [Instalação do Pytest](#instalando-o-pytest)
    - [Clone](#clonar-o-projeto)
-- [Testes](#testes)
+- [Testes](#testes-%EF%B8%8F%EF%B8%8F)
 - [Arquivos](#arquivos-open_file_folder)
 
 # O Projeto 📈
@@ -27,8 +27,8 @@ Se você entende um pouco de inglês e gostaria de saber todas as informações 
 Mas não se preocupe, o processo de instalação é super simples! Vou te ensinar o passo a passo aqui em baixo:
 
 ### Pré-requisitos
-#### Para instalar o Pytest é preciso ter também em sua máquina o <a href="https://pypi.org/project/pip/">PIP</a>, gerenciador de pacotes do Python.<br>
-#### Normalmente, o PIP é instalado automaticamente se você:
+Para instalar o Pytest é preciso ter também em sua máquina o <a href="https://pypi.org/project/pip/">PIP</a>, gerenciador de pacotes do Python.<br>
+Normalmente, o PIP é instalado automaticamente se você:
 - Está usando Python baixado de <a href="https://www.python.org/">python.org</a>
 
 ### ⚠️ Alguns IDE's como o <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a> já possuem o PIP integrado, e também uma fácil instalação do <a href="https://www.jetbrains.com/help/pycharm/pytest.html">Pytest</a>, direto em suas configurações de projeto. ⚠️<br>
@@ -67,14 +67,14 @@ pip install -U pytest
 pytest --version
 ```
 
-### Clonar o projeto
+### Clonando o projeto
 Agora é hora de baixar o projeto e poder testar um pouco dessa ferramenta de testes.
 - Com o terminal ainda aberto, navegue até a pasta onde deseja salvar o projeto e cole o seguinte comando:
 ```bash
 git clone https://github.com/PauloRotundaro/C214_Seminario-Pytest.git
 ```
 
-Pronto, tudo configurado! Agora é só escolher o seu IDE preferido e **Let's code with us**!
+**Pronto, tudo configurado! Agora é só escolher o seu IDE preferido e _Let's code with us_!**
 
 ## Testes ☑️✖️
 ### Para realização dos testes, 3 comandos podem ser feitos:
