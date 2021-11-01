@@ -4,10 +4,10 @@
 
 - [O Projeto](#o-projeto-)
 - [Equipe](#equipe)
-* [Instalação](#instalação-)
-   * [Pré-requisitos](#pré-requisitos)
-   * [Versão e atualização do PIP](#versão-e-atualização)
-   * [Instalação do Pytest](#instalando-o-pytest)
+- [Instalação](#instalação-)
+   - [Pré-requisitos](#pré-requisitos)
+   - [Versão e atualização do PIP](#versão-e-atualização)
+   - [Instalação do Pytest](#instalando-o-pytest)
 - [Testes](#testes)
 - [Arquivos](#arquivos-open_file_folder)
 
