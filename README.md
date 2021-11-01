@@ -1,6 +1,6 @@
-<h1 align="center">Teste de unidade com Pytest 💻 </h1>
+<h1 align="center">Hello, dev!🤓💻 </h1>
 
-## Tópicos 🔖
+## Quer ir direto ao ponto? 🔖
 
 - [O Projeto](#o-projeto-)
 - [Equipe](#equipe)
@@ -8,6 +8,7 @@
    - [Pré-requisitos](#pré-requisitos)
    - [Versão e atualização do PIP](#versão-e-atualização)
    - [Instalação do Pytest](#instalando-o-pytest)
+   - [Clone](#clonar-o-projeto)
 - [Testes](#testes)
 - [Arquivos](#arquivos-open_file_folder)
 
@@ -22,13 +23,15 @@ A atividade consiste em apresentar alguns testes de unidade feitos com uma ferra
 * 👦 Pedro Abritta
 
 ## Instalação ⚙💻
-Se você entende um pouco de inglês e gostaria de saber todas as informações sobre essa ferramenta de teste, você pode acessar a documentação oficial do <a href="https://docs.pytest.org/en/stable/index.html">Pytest</a>.
-Mas não se preocupe, o processo de instalação é super simples! Vou te passar o passo a baixo aqui em baixo:
+Se você entende um pouco de inglês e gostaria de saber todas as informações sobre essa ferramenta de teste, você pode acessar a documentação oficial do <a href="https://docs.pytest.org/en/stable/index.html">Pytest</a>.<br>
+Mas não se preocupe, o processo de instalação é super simples! Vou te ensinar o passo a passo aqui em baixo:
 
 ### Pré-requisitos
 #### Para instalar o Pytest é preciso ter também em sua máquina o <a href="https://pypi.org/project/pip/">PIP</a>, gerenciador de pacotes do Python.<br>
 #### Normalmente, o PIP é instalado automaticamente se você:
 - Está usando Python baixado de <a href="https://www.python.org/">python.org</a>
+
+### ⚠️ Alguns IDE's como o <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a> já possuem o PIP integrado, e também uma fácil instalação do <a href="https://www.jetbrains.com/help/pycharm/pytest.html">Pytest</a>, direto em suas configurações de projeto. ⚠️<br>
 
 Antes de tudo, abra um console com permissão de administrador no seu computador.
 Após aberto, siga os seguintes passos:
@@ -64,7 +67,14 @@ pip install -U pytest
 pytest --version
 ```
 
-### Alguns IDE's como o <a href="https://www.jetbrains.com/pt-br/pycharm/">PyCharm</a> já possuem o PIP integrado, e também uma fácil instalação do <a href="https://www.jetbrains.com/help/pycharm/pytest.html">Pytest</a> em suas configurações de projeto.
+### Clonar o projeto
+Agora é hora de baixar o projeto e poder testar um pouco dessa ferramenta de testes.
+- Com o terminal ainda aberto, navegue até a pasta onde deseja salvar o projeto e cole o seguinte comando:
+```bash
+git clone https://github.com/PauloRotundaro/C214_Seminario-Pytest.git
+```
+
+Pronto, tudo configurado! Agora é só escolher o seu IDE preferido e **Let's code with us**!
 
 ## Testes ☑️✖️
 ### Para realização dos testes, 3 comandos podem ser feitos:
