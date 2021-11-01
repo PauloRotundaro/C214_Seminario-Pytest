@@ -13,5 +13,8 @@ Arquivos
         * [test_multiplicacao_divisao.py]
         * [test_soma_subtracao.py]
      * [__init__.py]
-     * [calculadora]
+     * [calculadora.py](#calculadora.py)
 <!--te-->
+
+#calculadora.py
+<img src="./assets/calc.png" />
