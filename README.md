@@ -22,8 +22,9 @@ A atividade consiste em apresentar alguns testes de unidade feitos com uma ferra
 Se você entende um pouco de inglês e gostaria de saber todas as informações sobre essa ferramenta de teste, você pode acessar a documentação oficial do <a href="https://docs.pytest.org/en/stable/index.html">Pytest</a>.
 Mas não se preocupe, o processo de instalação é super simples! Vou te passar o passo a baixo aqui em baixo:
 
-Para instalar o Pytest é preciso ter também em sua máquina o <a href="https://pypi.org/project/pip/">PIP</a>, gerenciador de pacotes do Python.
-Normalmente, o PIP é instalado automaticamente se você:
+### Pré-requisitos
+#### Para instalar o Pytest é preciso ter também em sua máquina o <a href="https://pypi.org/project/pip/">PIP</a>, gerenciador de pacotes do Python.<br>
+#### Normalmente, o PIP é instalado automaticamente se você:
 - Está usando Python baixado de <a href="https://www.python.org/">python.org</a>
 
 Antes de tudo, abra um console com permissão de administrador no seu computador.
@@ -47,6 +48,17 @@ pip --version
 - Para atualizar sua versão do PIP, rode o seguinte comando:
 ```bash
 python -m pip install --upgrade pip
+```
+
+### Instalando o Pytest
+- 1º Com um simples comando você já instala o Pytest:
+```bash
+pip install -U pytest
+```
+
+- 2º Para saber a versão do Pytest, também é simples:
+```bash
+pytest --version
 ```
 
 ## Testes
