@@ -7,13 +7,13 @@ Devemos apresentar alguns testes de unidade feitos com o pytest. Para isso desen
 Arquivos
 =================
 <!--ts-->
-   * :file_folder: calculadora
-     * test
-        * __init__.py
-        * [test_multiplicacao_divisao.py](#test-multiplicacao-divisao)
-        * [test_soma_subtracao.py](#test-soma-subtracao)
-     * __init__.py
-     * [calculadora.py](#calculadora)
+   :file_folder: calculadora
+     :file_folder: test
+        :file_folder: __init__.py
+        :file_folder: [test_multiplicacao_divisao.py](#test-multiplicacao-divisao)
+        :file_folder: [test_soma_subtracao.py](#test-soma-subtracao)
+     :file_folder: __init__.py
+     :file_folder: [calculadora.py](#calculadora)
 <!--te-->
 
 ## calculadora
