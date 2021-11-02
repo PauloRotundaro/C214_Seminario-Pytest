@@ -1,7 +1,9 @@
 import Calculadora.calculadora as c
 
-def teste_divisao():
-    assert c.Calculadora.divisao(4, 2) == 2
+class TestMultiplicacaoDivisao():
+    def test_divisao(self):
+        assert c.Calculadora.divisao(4, 2) == 2
 
-def teste_multiplicacao():
-    assert c.Calculadora.multiplicacao(12, 2) == 24
+    def test_multiplicacao(self):
+        assert c.Calculadora.multiplicacao(12, 2) == 24
+
